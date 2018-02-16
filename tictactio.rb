@@ -1,5 +1,5 @@
  
- 
+ board = ["X", " ", " ", " ", " ", " ", " ", " ", "X"]
  
  expect(WIN_COMBINATIONS).to include_array([0,1,2])
       expect(WIN_COMBINATIONS).to include_array([3,4,5])
